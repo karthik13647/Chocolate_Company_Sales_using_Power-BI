@@ -102,7 +102,7 @@ It contains the following tables:
 | Page | Preview |
 |------|---------|
 | Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| Product Insights | ![Product](screenshots/product_insights.png) |
+| Product Insights | ![Product](screenshots/project_insights.png) |
 | Sales & Trends | ![Trends](screenshots/sales_trends.png) |
 | Profits & Teams | ![Teams](screenshots/profits_teams.png) |
 
@@ -129,4 +129,5 @@ It contains the following tables:
 
 
 ---
+
 
