@@ -106,8 +106,6 @@ It contains the following tables:
 | Sales & Trends | ![Trends](screenshots/sales_trends.png) |
 | Profits & Teams | ![Teams](screenshots/profits_teams.png) |
 
-> (Make sure to upload `screenshots/` folder to your GitHub repo with the exported image files)
-
 ---
 
 ## 📌 How to Use
@@ -129,5 +127,6 @@ It contains the following tables:
 
 
 ---
+
 
 
